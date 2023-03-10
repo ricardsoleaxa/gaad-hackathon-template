@@ -6,7 +6,7 @@ Short blurb about what your project does.
 
 ## Event Details
 ![GAAD](https://accessibility.day/wp-content/uploads/2020/03/Group-461.svg)
-In support of 18 May 2023 [Global Accessibility Awareness Day](https://accessibility.day), the FINOS Foundation is hosting the [FINOS GAAD Hackathon][2].
+In support of 18 May 2023 [Global Accessibility Awareness Day](https://accessibility.day), the FINOS Foundation is hosting the [FINOS GAAD Hackathon][1].
 
 ## Purpose
 This [GitHub Repo Template][7] serves as a submission aid. It provides preparatory guidance to participating hackathon teams by [creating a project workspace repository][8] for use in the event. Effectively, this repository is an event  bootstrap mechanism for participants.
