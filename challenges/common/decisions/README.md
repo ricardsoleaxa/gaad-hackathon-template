@@ -12,5 +12,5 @@ As a community, we will capture all ```Business``` and ```Architectural``` decis
 
 Examples:
 
-* ```PY-KERI_for_SCIDs_adr.md```
-* ```Witness_as_a_Service_bdr.md```
+* ```MongoDB_adr.md```
+* ```Data_as_a_Service_bdr.md```

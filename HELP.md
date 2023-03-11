@@ -4,7 +4,7 @@ This page is intended as a guide to help meet the submission requirements.
 ## Hacker's Toolbelt
 Get acquainted with some of the [fundamental tools](./submission-guides/tools.md) that can be used for the hackathon.
 
-## Digital Trust Use Cases
+## Sample Use Cases
 Before your team picks a use case, it is recommended that the team explores some example use cases to help spark ideas. These examples also help set expectations for how to articulate a use case story.  
 
 1. [Internal Examples](https://github.discoverfinancial.com/tech-academy-org/digital-trust-wg/wiki/Digital-Trust-Use-Cases#activities)
