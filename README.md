@@ -2,8 +2,6 @@
 
 # FINOS GAAD Hackathon -  Project Submission Template
 
-Short blurb about what your project does.
-
 ## Event Details
 ![GAAD](https://accessibility.day/wp-content/uploads/2020/03/Group-461.svg)
 In support of 18 May 2023 [Global Accessibility Awareness Day](https://accessibility.day), the FINOS Foundation is hosting the [FINOS GAAD Hackathon][1].

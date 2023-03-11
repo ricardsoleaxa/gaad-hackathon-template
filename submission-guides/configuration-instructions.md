@@ -32,8 +32,8 @@ The hackathon offers participating teams one (1) or more competition challenges.
 
 Complete the project workspace configuration steps based the desired challenge:
 
-  1. [Atomic Accessibility Design Challenge](../challenges/challenge1/code/setup.md)
-  2. [Unsponsored Challenge](../challenges/challenge2/code/setup.md)
+  1. [Atomic Accessibility Design Challenge](../challenges/challenge1/setup.md)
+  2. [Unsponsored Challenge](../challenges/challenge2/setup.md)
 
 <!--- Reusable Resources --->
 [1]: https://code.visualstudio.com/

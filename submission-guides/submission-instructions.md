@@ -1,4 +1,4 @@
-## Hackathon Project Workspace Submission Instructions
+## Project Submission Instructions
 
 Each team should assign an engineer to take the necessary steps to provision the team's project repository in the Discover Enterprise GitHub environment. 
 
