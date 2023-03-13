@@ -31,8 +31,8 @@ The following resources provide a bootstrap for participating hackers.
 >ToDO: Sample Board templates
 | Template | Description |
 | --- | --- |
-| Design Thinking Miro Board Template - I **Have** an Idea | [I Have an Idea - Innovation Accelerator TruCreds Workshop Template](https://miro.com/app/dashboard/?tpTemplate=uXjVOmSchyk%3D&isCustom=true&share_link_id=923512925225) |
-| Design Thinking Miro Board Template - I **Need** an Idea | [I Need an Idea - Innovation Accelerator TruCreds Workshop Template](https://miro.com/app/dashboard/?tpTemplate=uXjVOmSTX18%3D&isCustom=true&share_link_id=500327005307) |
+| Design Thinking Mural Board Template - I **Have** an Idea | [I Have an Idea - Innovation Accelerator TruCreds Workshop Template]() |
+| Design Thinking Mural Board Template - I **Need** an Idea | [I Need an Idea - Innovation Accelerator TruCreds Workshop Template]() |
 | Use Case Story | [Story template](../designs/story-template.md) |
 | Design Thinking Playback Template | [PowerPoint Template Download](https://discoverfinancial.sharepoint.com/:p:/s/TCI-Innovation/EfcdhWb8qxRGlSNyRQjt2sEBqrwKtnnUpef5Ja4pKY4Atg?e=qUrfOR)
 
@@ -41,7 +41,7 @@ Upon successful completion of this guide, the following hackathon checklist requ
 
 | Artifact | Description |
 | --- | --- |
-| Design Thinking Miro Board | URL to whiteboard used for team brainstorming. |
+| Design Thinking Mural Board | URL to whiteboard used for team brainstorming. |
 | Use Case Story | Markdown file describing the use case with support by UML diagrams. 
 | Design Thinking Playback Brief | PowerPoint Presentation used to convey results of Design Thinking activities. This presentation *should* be used for the creation of the 2-min Concept Video. |
 
@@ -50,7 +50,7 @@ Upon successful completion of this guide, the following hackathon checklist requ
 
 The Design Thinking day is for you and your team to take time ***before*** the Hackathon to use Design Thinking templates that are being provided to help you during the hackathon, as well as to help you prepare the presentation for your project.
 
-**Use our Design Thinking Miro templates to help you:**
+**Use our Design Thinking Mural templates to help you:**
 * Brainstorm a **new** idea or jump start an **existing** idea
 * Empathize with your users
 * Gain a better understanding of the problem your trying to solve
@@ -60,15 +60,15 @@ The Design Thinking day is for you and your team to take time ***before*** the H
 
 ### Design Thinking Day Assets
 
-**Use the Miro templates listed below that best fits your needs:**
+**Use the Mural templates listed below that best fits your needs:**
 * [I Have an Idea](**TODO**)
 * [I Need a Idea](**TODO**)
 
 **If you need help understanding any of the exercises, please refer to any of the follow:**
 * [Video of a team going through all the exercises](https://web.microsoftstream.com/video/deb6f4ce-1b36-4450-8b7a-5d87b95c4c79)
 ```Note: At the beginning of each exercise a facilitator describes the method. There are also time codes in the video details that let you skip to sections with the specific methods.```  
-* [Example of a completed Design Thinking Miro Template
-](https://miro.com/app/board/uXjVOmu96Eg=/?share_link_id=356831181625)  
+* [Example of a completed Design Thinking Mural Template
+]()  
 * [Design Thinking Mentor Teams Channel](**TODO**)
     
 Friday, August 19th is designated as the Design Thinking Day and should be used by your team to prepare for the event. Design Thinking mentors will be available between 8:00AM-4:00PM Central on [Teams](**TODO**)
@@ -94,7 +94,7 @@ The objective here is to develop a human readable use case that can be easily co
 
 ### Playback Brief
 
-To help you streamline creating a presentation for your hackathon project, we have created a PowerPoint template for you to use. The outline of this template follows exercises found in the Design Thinking Miro Templates, so make sure to take advantage of those!
+To help you streamline creating a presentation for your hackathon project, we have created a PowerPoint template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
 
 [Download the PowerPoint Template](**TODO**)
 

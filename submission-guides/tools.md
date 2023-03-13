@@ -65,7 +65,6 @@ Participants may use any tools of their choice as long as their resulting board 
 
 | Tool | Free Access | 
 | --- | --- | 
-| Miro | [Start for Free](https://miro.com/pricing/) |
 | Mural | [Start for Free](https://www.mural.co/pricing) |
 
 ### Use Case Story

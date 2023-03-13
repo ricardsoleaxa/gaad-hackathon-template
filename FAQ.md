@@ -18,9 +18,8 @@ No. Each participating team MUST submit a GitHub repository per challenge entry.
 
 ## Can collaborative visual whiteboards be exported for preservation?
 
-Yes. Since participants will most like use a free instance of a Collaborative Visual Tool, such as Mural or Miro, teams are encouraged to export their work.
+Yes. Since participants will most like use a free instance of a Collaborative Visual Tool, such as Mural, teams are encouraged to export their work.
 
 * [Export Mural Board](https://support.mural.co/en/articles/7024221-export-and-download-your-mural-s-content)
-* [Export Miro Board](https://help.miro.com/hc/en-us/articles/360017572754-How-to-export-your-board)
 
 
