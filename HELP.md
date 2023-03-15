@@ -12,5 +12,7 @@ Before your team picks a use case, it is recommended that the team explores some
 
 ## General Submission Requirements 
 
-Please refer to the [Participants Guide]() **toDo** for all submission details. 
+Please refer to the [Participants Guide][1] for all submission details. 
 
+<!--- Reusable Resources --->
+[1]: https://www.notion.so/tribegroup/Discover-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691?pvs=4

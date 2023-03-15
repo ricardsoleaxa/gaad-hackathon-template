@@ -18,7 +18,7 @@ Each participating team must record and submit videos of adequate duration to qu
 
 ## Prerequisite Educational
 
-The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participant Guide](https://www.notion.so/angelhack/TruCreds-Hack-A-Digital-Trust-Hackathon-7e74d78809fb4a56bb9f898b48007464) for the schedule of sessions. 
+The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide][1] for the schedule of sessions. 
 
 * Pitch Workshop
 * Video Process 101
@@ -58,6 +58,9 @@ Please follow these instructions for the creation of a video recording using Mic
 11. When the meeting is done, the host can click ‘More’ and then ‘Stop Recording’ to end the meeting. A recording and transcription will be available in the Microsoft Teams chat for the session.
  
 12. Once Microsoft teams has completed the processing of the recording, the host can locate the video file in the recent Teams chat. Click on the 3 dots in the top right corner of the video file and select ‘Get link.’ Submit this URL using the Hackathon submission form. 
+
+<!--- Reusable Resources --->
+[1]: https://www.notion.so/tribegroup/Discover-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691?pvs=4
 
 
 

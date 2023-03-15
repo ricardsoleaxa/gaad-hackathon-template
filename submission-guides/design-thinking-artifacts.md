@@ -8,7 +8,7 @@ The instructions herein provide guidance on how a participating hackathon team c
 
 ### Plenary Sessions
 
-The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participant Guide](**ToDo**) for the schedule of sessions. 
+The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide][1] for the schedule of sessions. 
 
 * Design Thinking Experience
 * Atomic Accessibility Design 
@@ -96,9 +96,11 @@ The objective here is to develop a human readable use case that can be easily co
 
 To help you streamline creating a presentation for your hackathon project, we have created a PowerPoint template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
 
-[Download the PowerPoint Template](**TODO**)
+[PowerPoint Template](../hackproject/presentations/gaad-hackathon-playback-template.pptx)
 
 
+<!--- Reusable Resources --->
+[1]: https://www.notion.so/tribegroup/Discover-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691?pvs=4
 
 
 
