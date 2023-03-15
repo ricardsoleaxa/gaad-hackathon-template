@@ -1,5 +1,5 @@
 # Project Artifacts
-Each project will produce a variety of work products during the hacking period. Dependiong on teh type of work product or teh tool used to create it, teams will desire to capture a static instance for retention purposes.
+Each project will produce a variety of work products during the hacking period. Depending on the type of work product or the tool used to create it, teams will desire to capture a static instance for retention purposes.
 
 ## Visual Collaboration Tools
 These SaaS offering require fee-based subscriptions to maintain a web addressable link (URL) to a board. It is **highly recommended** that teams export their work into one of two (2) ways:
