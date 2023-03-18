@@ -28,10 +28,10 @@ The designated person on the team that will own the team's public GitHub repo sh
 7. Update the repo to meet the [Mandatory GitHub Topics Criteria](./repo-requirements.md) which is required for a qualified submission. See [Add Topics][6].   
 8. Select an Event Challenge: The hackathon offers participating teams one (1) or more competition challenges. Each challenge sponsor has outlined the requirements necessary for preparing a  ``` Team Workspace``` repository. Complete the project workspace configuration steps based the desired challenge:
 
-  1. [Atomic Accessibility Design Challenge](../challenges/challenge1/setup.md)
-  2. [Accessible Contracts Challenge](../challenges/challenge2/setup.md)
+   1. [Atomic Accessibility Design Challenge](../challenges/challenge1/setup.md)
+   2.  [Accessible Contracts Challenge](../challenges/challenge2/setup.md)
    
-9.  Lastly, [clone the Team Workspace repo][3] to a Development Workstation. 
+9. Lastly, [clone the Team Workspace repo][3] to a Development Workstation. 
 
 #### Team Member Instructions
 All other team members can [fork and clone][4] to their Development Workstations.
