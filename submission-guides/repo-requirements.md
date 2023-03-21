@@ -4,7 +4,7 @@ Each team will be required to submit a GitHub repository with their project. The
 1. Fork of [finos-labs/gaad-hackathon-template](https://github.com/finos-labs/gaad-hackathon-template).
 2. Replacement of `README.md` with `SUBMISSION_README.md`.
 3. Completion of `README.md` form details.
-4. Follow the instructions for adding [GitHub Topics][1] to meet the Mandatory GitHub Topics Criteria per Challenge:
+4. Follow the instructions for adding [GitHub Topics][1] to meet the **Mandatory GitHub Topics Criteria** per Challenge:
 
     | Challenge | Track | Topics |
     | --- | --- | --- |
