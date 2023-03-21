@@ -15,8 +15,8 @@ The following plenary sessions are recommended before beginning the hackathon. P
 
 ### Getting Access to Mural
 You will need access to Mural to participate in Design Thinking activites. Refere to the links below to get started:
-* [Getting Access to Mural & Using the Template](/gaad-hackathon-template/submission-guides/mural/mural-instructions.md)
-* [Mural FAQ](/Users/mmills7/Documents/GitHub/gaad-hackathon-template/submission-guides/mural/mural-faq.md)
+* [Getting Access to Mural & Using the Template](/submission-guides/mural/mural-instructions.md)
+* [Mural FAQ](/submission-guides/mural/mural-faq.md)
 
 ### Developing Sequence Diagrams
 
