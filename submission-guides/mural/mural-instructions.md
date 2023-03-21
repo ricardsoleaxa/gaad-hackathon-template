@@ -6,8 +6,8 @@
 2. Create a free account by selecting, "sign up, free forever"
 3. Provide your First Name, Last Name, & Email Address to sign up as a free member. 
 
-![sign up](./submission-guides/mural/images/mural-instructions-sign-up.png)
-![register](./submission-guides/mural/images/mural-instructions-register.png)
+![sign up](./images/mural-instructions-sign-up.png)
+![register](./images/mural-instructions-register.png)
 
 
 # Mural Template Instructions
