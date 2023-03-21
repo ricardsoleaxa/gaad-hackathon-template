@@ -6,8 +6,8 @@
 2. Create a free account by selecting, "sign up, free forever"
 3. Provide your First Name, Last Name, & Email Address to sign up as a free member. 
 
-![sign up](/gaad-hackathon-template/submission-guides/mural/images/mural-instructions-sign-up.png)
-![register](/gaad-hackathon-template/submission-guides/mural/images/mural-instructions-register.png)
+![sign up](/Users/mmills7/Documents/GitHub/gaad-hackathon-template/submission-guides/mural/images/mural-instructions-sign-up.png)
+![register](/Users/mmills7/Documents/GitHub/gaad-hackathon-template/submission-guides/mural/images/mural-instructions-register.png)
 
 
 # Mural Template Instructions
