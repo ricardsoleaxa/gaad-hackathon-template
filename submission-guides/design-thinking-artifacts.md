@@ -13,6 +13,11 @@ The following plenary sessions are recommended before beginning the hackathon. P
 * Design Thinking Experience
 * Atomic Accessibility Design 
 
+### Getting Access to Mural
+You will need access to Mural to participate in Design Thinking activites. Refere to the links below to get started:
+* [Getting Access to Mural & Using the Template](/submission-guides/mural/mural-instructions.md)
+* [Mural FAQ](/submission-guides/mural/mural-faq.md)
+
 ### Developing Sequence Diagrams
 
 Familiarity with UML sequence diagrams is suggested:
@@ -94,9 +99,9 @@ The objective here is to develop a human readable use case that can be easily co
 
 ### Playback Brief
 
-To help you streamline creating a presentation for your hackathon project, we have created a PowerPoint template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
+To help you streamline creating a presentation for your hackathon project, we have created a Google Slides template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
 
-[PowerPoint Template](../hackproject/presentations/gaad-hackathon-playback-template.pptx)
+[Google Slides Template](https://docs.google.com/presentation/d/1rZGvHs2P7DAQhsuU2DDylQQgRlUjdXpD9EbKw3yxOpc/edit#slide=id.p)
 
 
 <!--- Reusable Resources --->
