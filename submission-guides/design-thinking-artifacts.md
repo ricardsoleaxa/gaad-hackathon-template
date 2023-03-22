@@ -76,7 +76,8 @@ The Design Thinking day is for you and your team to take time ***before*** the H
 * Fast track your presentation
 
 ### Design Thinking Day Assets
-
+>Note: You will need FREE access to Mural. See [instructions](./submission-guides/mural/mural/mural-instructions.md) for how to get set up.
+ 
 **Use the Mural templates listed below that best fits your needs:**
 * [I Have an Idea](**TODO**)
 * [I Need a Idea](**TODO**)
