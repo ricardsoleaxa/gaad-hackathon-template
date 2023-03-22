@@ -87,9 +87,9 @@ The Design Thinking day is for you and your team to take time ***before*** the H
 ```Note: At the beginning of each exercise a facilitator describes the method. There are also time codes in the video details that let you skip to sections with the specific methods.```  
 * [Example of a completed Design Thinking Mural Template
 ]()  
-* [Design Thinking Mentor Teams Channel](**TODO**)
+* [Design Thinking Mentor Slack Channel](https://join.slack.com/t/slack-ebi5711/shared_invite/zt-1rm7f1p0i-qHl_638lkDgi~1obuYXLcw)
     
-Friday, August 19th is designated as the Design Thinking Day and should be used by your team to prepare for the event. Design Thinking mentors will be available between 8:00AM-4:00PM Central on [Teams](**TODO**)
+April 24th - May 5th is designated as Plenary week. We will have a Design Thinking Day that your team should plan to attend to best prepare for the event. Design Thinking mentors will be available between 8:00AM-4:00PM Central on [Slack](https://join.slack.com/t/slack-ebi5711/shared_invite/zt-1rm7f1p0i-qHl_638lkDgi~1obuYXLcw)
  
 
 ### Use Case Story
