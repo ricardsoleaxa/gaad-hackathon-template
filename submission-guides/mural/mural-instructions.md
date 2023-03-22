@@ -18,13 +18,27 @@ Note: You only need one person from the team to download the template. Once that
 1. Use [this link](mural.co) to navigate to the GAAD Hackathon Mural template.
 2. Select, "Use this template"
 3. Click, "Create Mural from Template"
-4. NOTE: If you have not created a Mural account yet, you will be prompted to do so. ![create teamplate](./images/mural-instructions-template.png)
+4. NOTE: If you have not created a Mural account yet, you will be prompted to do so.
+  
+  ![create teamplate](./images/mural-instructions-template.png)
+  
 5. Once you have the template open in your workspace, be sure to name it by selecting the default title, "untitled" in the upper left.
-6. Click "share" to share the workspace with your Hackathon team.![share](./images/mural-instructions-share.png)
-7. Copy the link provided - ensure all workspace members with the vistor link, "can edit". ![share setting](./images/mural-instructions-share-2.png)
+6. Click "share" to share the workspace with your Hackathon team.
+  
+  ![share](./images/mural-instructions-share.png)
+  
+7. Copy the link provided - ensure all workspace members with the vistor link, "can edit". 
+
+  ![share setting](./images/mural-instructions-share-2.png)
 
 
 ## Exporting Your Work
-1. Once you are completed with your work, please export to either a PDF or PNG by selecting, "download". (HINT: if you are downloading an image for a Playback Brief, a PNG might be easiest.) ![download](./images/mural-instructions-download.png)
-2. Select the area you'd like to export by selecting the button "selection" ![selection](./images/mural-instructions-selection.png)
+1. Once you are completed with your work, please export to either a PDF or PNG by selecting, "download". (HINT: if you are downloading an image for a Playback Brief, a PNG might be easiest.)
+  
+  ![download](./images/mural-instructions-download.png)
+  
+2. Select the area you'd like to export by selecting the button "selection" 
+  
+  ![selection](./images/mural-instructions-selection.png)
+  
 3. Upload image to your project's repo. 
