@@ -33,13 +33,12 @@ It is **highly recommended** that participating teams leverage the [sample use c
 ## Sample Material
 The following resources provide a bootstrap for participating hackers.
 
->ToDO: Sample Board templates
-| Template | Description |
+| Description | Template |
 | --- | --- |
-| Design Thinking Mural Board Template - I **Have** an Idea | [I Have an Idea - Innovation Accelerator TruCreds Workshop Template]() |
-| Design Thinking Mural Board Template - I **Need** an Idea | [I Need an Idea - Innovation Accelerator TruCreds Workshop Template]() |
+| Design Thinking Mural Board Template - I **Have** an Idea | [I Have an Idea Template]() |
+| Design Thinking Mural Board Template - I **Need** an Idea | [I Need an Idea Template]() |
 | Use Case Story | [Story template](../designs/story-template.md) |
-| Design Thinking Playback Template | [PowerPoint Template Download](https://discoverfinancial.sharepoint.com/:p:/s/TCI-Innovation/EfcdhWb8qxRGlSNyRQjt2sEBqrwKtnnUpef5Ja4pKY4Atg?e=qUrfOR)
+| Design Thinking Playback Template | [PowerPoint Template](https://github.com/finos-labs/gaad-hackathon-template/tree/main/challenges/common/presentations) |
 
 ## Exit Criteria
 Upon successful completion of this guide, the following hackathon checklist requirements will be produced:
