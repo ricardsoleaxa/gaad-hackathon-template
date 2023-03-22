@@ -11,7 +11,7 @@ Both event tracks (*Design Thinking*, *Hack-the-Code*) require a `Pitch Video`. 
 
 where:
     
-    * REPO_FOLDER: Name of the local project folder on your **Development Workstation** after cloning the ``` Team Workspace``` repository.
+* REPO_FOLDER: Name of the local project folder on your **Development Workstation** after cloning the ``` Team Workspace``` repository.
 
 ## Challenge 2 Suggestions
 TBD
