@@ -10,9 +10,21 @@ The instructions herein provide guidance on how a participating hackathon team c
 
 The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide][1] for the schedule of sessions. 
 
-* Design Thinking Experience
-* Atomic Accessibility Design 
+**Highly Recommended for Design Thinking track:**
+* Design Thinking Experience 
+    * Design Thinking 101: What, why, where Design Thinking is used
+* Design Thinking Recipe Overview for Atomic Accessibility Design Challenge
+    * Overview of a Design Thinking recipe (set of exercises) to help create user-centered use cases
+* Atomic Accessibility Design Theme Builder Workshop
+    * Overview of the Theme Builder tool, how to use it, example use cases
+* [Mural 101](mural.co)
+    * Overview of the collaboration tool, Mural. (Hint: you will be utilizing Mural for the Design Thinking recipe)
 
+**Additional Sessions that might be beneficial:**
+* Atomic Accessibility Design Theme Builder for Designers workshop
+    * Overview of how Designers can best utilize the theme builder tool to create accessible solutions
+* Atomic Accessibility Design Theme Builder for Developers workshop
+    * Overview of how Developers can best utilize the theme builder tool to create accessbile solutions
 ### Getting Access to Mural
 You will need access to Mural to participate in Design Thinking activites. Refere to the links below to get started:
 * [Getting Access to Mural & Using the Template](/submission-guides/mural/mural-instructions.md)
