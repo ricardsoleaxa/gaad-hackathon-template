@@ -112,9 +112,9 @@ The objective here is to develop a human readable use case that can be easily co
 
 ### Playback Brief
 
-To help you streamline creating a presentation for your hackathon project, we have created a Google Slides template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
+To help you streamline creating a presentation for your hackathon project, we have created a Powerpoint template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
 
-[Google Slides Template](https://docs.google.com/presentation/d/1rZGvHs2P7DAQhsuU2DDylQQgRlUjdXpD9EbKw3yxOpc/edit#slide=id.p)
+[Playback Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx)
 
 
 <!--- Reusable Resources --->
