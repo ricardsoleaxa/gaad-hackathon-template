@@ -29,7 +29,7 @@ The designated person on the team that will own the team's public GitHub repo sh
 8. Select an Event Challenge: The hackathon offers participating teams one (1) or more competition challenges. Each challenge sponsor has outlined the requirements necessary for preparing a  ``` Team Workspace``` repository. Complete the project workspace configuration steps based the desired challenge:
 
    1. [Atomic Accessibility Design Challenge](../challenges/challenge1/setup.md)
-   2.  [Accessible Contracts Challenge](../challenges/challenge2/setup.md)
+   2.  [nclusive Contracts: Making Legal Language Accessible Challenge](../challenges/challenge2/setup.md)
    
 9. Lastly, [clone the Team Workspace repo][3] to a Development Workstation. 
 
