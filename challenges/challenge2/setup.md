@@ -1,12 +1,10 @@
 # Workspace Configuration Instructions
-## Challenge 2: Atomic Accessibility Design
+## Challenge 2: Accessible Contracts
 
 | Topic | Description |
 | --- | --- | 
-| Overview | Given the challenges associated with risk compliance for people with disabilities (Visual, Motion, Motor, Auditory, Cognitive/Learning), Atomic Accessibility Design enables designers and developers to establish a round-trip workflow process that traverses from abstract concepts to concrete details. The application of Atomic Accessibility Design concepts towards the development of accessibly-compliant solutions yields consistency and scalability while mitigating regulatory risk. |
-| Challenge | Organize a well-rounded team that can leverage new accessibility tools to develop an end-to-end solution that explores novel applications of accessibility technologies for financial services.|
-|Supporting Technology | [Atomic Accessibility Design Theme Builder][5] |
-
+| Overview | The use of complex language in contracts and legal text makes them difficult to understand, particularly for individuals with cognitive disabilities. |
+| Challenge | Organize a well-rounded team that will develop a generic solution to simplify the language used in contracts, improve their overall clarity and accessibility, and make them easier to find and understand. This solution should be flexible enough to be deployed in any infrastructure.|
 ## Pick an Event Track
 Challenge 1 offers two (2) event tracks. Each participating team must select the track they will compete within.
 
