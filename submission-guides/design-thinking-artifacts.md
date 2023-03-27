@@ -10,9 +10,21 @@ The instructions herein provide guidance on how a participating hackathon team c
 
 The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide][1] for the schedule of sessions. 
 
-* Design Thinking Experience
-* Atomic Accessibility Design 
+**Highly Recommended for Design Thinking track:**
+* Design Thinking Experience 
+    * Design Thinking 101: What, why, where Design Thinking is used
+* Design Thinking Recipe Overview for Atomic Accessibility Design Challenge
+    * Overview of a Design Thinking recipe (set of exercises) to help create user-centered use cases
+* Atomic Accessibility Design Theme Builder Workshop
+    * Overview of the Theme Builder tool, how to use it, example use cases
+* [Mural 101](mural.co)
+    * Overview of the collaboration tool, Mural. (Hint: you will be utilizing Mural for the Design Thinking recipe)
 
+**Additional Sessions that might be beneficial:**
+* Atomic Accessibility Design Theme Builder for Designers workshop
+    * Overview of how Designers can best utilize the theme builder tool to create accessible solutions
+* Atomic Accessibility Design Theme Builder for Developers workshop
+    * Overview of how Developers can best utilize the theme builder tool to create accessbile solutions
 ### Getting Access to Mural
 You will need access to Mural to participate in Design Thinking activites. Refere to the links below to get started:
 * [Getting Access to Mural & Using the Template](/submission-guides/mural/mural-instructions.md)
@@ -63,7 +75,8 @@ The Design Thinking day is for you and your team to take time ***before*** the H
 * Fast track your presentation
 
 ### Design Thinking Day Assets
-
+>Note: You will need FREE access to Mural. See [instructions](./submission-guides/mural/mural/mural-instructions.md) for how to get set up.
+ 
 **Use the Mural templates listed below that best fits your needs:**
 * [I Have an Idea](**TODO**)
 * [I Need a Idea](**TODO**)
@@ -73,9 +86,9 @@ The Design Thinking day is for you and your team to take time ***before*** the H
 ```Note: At the beginning of each exercise a facilitator describes the method. There are also time codes in the video details that let you skip to sections with the specific methods.```  
 * [Example of a completed Design Thinking Mural Template
 ]()  
-* [Design Thinking Mentor Teams Channel](**TODO**)
+* [Design Thinking Mentor Slack Channel](https://join.slack.com/t/slack-ebi5711/shared_invite/zt-1rm7f1p0i-qHl_638lkDgi~1obuYXLcw)
     
-Friday, August 19th is designated as the Design Thinking Day and should be used by your team to prepare for the event. Design Thinking mentors will be available between 8:00AM-4:00PM Central on [Teams](**TODO**)
+April 24th - May 5th is designated as Plenary week. We will have a Design Thinking Day that your team should plan to attend to best prepare for the event. Design Thinking mentors will be available between 8:00AM-4:00PM Central on [Slack](https://join.slack.com/t/slack-ebi5711/shared_invite/zt-1rm7f1p0i-qHl_638lkDgi~1obuYXLcw)
  
 
 ### Use Case Story
@@ -98,9 +111,9 @@ The objective here is to develop a human readable use case that can be easily co
 
 ### Playback Brief
 
-To help you streamline creating a presentation for your hackathon project, we have created a Google Slides template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
+To help you streamline creating a presentation for your hackathon project, we have created a Powerpoint template for you to use. The outline of this template follows exercises found in the Design Thinking Mural Templates, so make sure to take advantage of those!
 
-[Google Slides Template](https://docs.google.com/presentation/d/1rZGvHs2P7DAQhsuU2DDylQQgRlUjdXpD9EbKw3yxOpc/edit#slide=id.p)
+[Playback Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx)
 
 
 <!--- Reusable Resources --->
