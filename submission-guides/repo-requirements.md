@@ -8,8 +8,8 @@ Each team will be required to submit a GitHub repository with their project. The
 
     | Challenge | Track | Topics |
     | --- | --- | --- |
-     | 1 | Design Thinking | `finos`, `a11y-tb`, `gaad-2023-1dt`|
-    | 1 | Hack the Code | | `finos`, `a11y-tb`, `gaad-2023-1hc`|
+    | 1 | Design Thinking | `finos`, `a11y-tb`, `gaad-2023-1dt`|
+    | 1 | Hack the Code | `finos`, `a11y-tb`, `gaad-2023-1hc`|
     | 2 | Hack the Code | `finos`, `gaad-2023-2hc`|
 
 
