@@ -55,14 +55,14 @@ Here are some recommendations for the creation of flowcharts. These diagrams sho
 ### Visual Collaboration Boards
 [Design Thinking activities](./design-thinking-artifacts.md) make use of visual collaboration tools that allow teams to work together on virtual whiteboards with a variety of features for real-time interactions. 
 
-Participants may use any tools of their choice as long as their resulting board is easily accessible by the judges. It is recommended that participants use the visual collaboration board tool offered by [Mural](https://www.mural.co).
+Participants may use any tools of their choice as long as their resulting board is easily accessible by the judges. It is recommended that participants use the visual collaboration board tool offered by [Mural](./mural/mural-instructions.md) and refer to the [Mural FAQ](./mural/mural-faq.md).
 
 ### Use Case Story
 Successful hackathon participants will demonstrate their story-telling ability. This repository contains a structured document outline (using Markdown) to describe a solution to a problem or idea. It is recommended that participants familiarize themselves with the [sample use-case story template](../challenges/challenge1/usecase/story-template.md). After completing their [Design Thinking activities](./design-thinking-artifacts.md), participants can use their results to clearly articulate story-telling topics such as:
 
-    * Business Challenge
-    * Problem Domain Vernacular
-    * Solution Assumptions
-    * Problem Domain Persona
+* Business Challenge
+* Problem Domain Vernacular
+* Solution Assumptions
+* Problem Domain Persona
 
 Participants **should** consider extending their user story with a use case using UML sequence diagrams. Please refer to [UML Design Tools](#uml-design-tools) for assistance. 
