@@ -34,7 +34,7 @@ The designated person on the team that will own the team's public GitHub repo sh
 9. Lastly, [clone the Team Workspace repo][3] to a Development Workstation. 
 
 #### Team Member Instructions
-All other team members can [fork and clone][4] to their Development Workstations.
+Once the [Repo Owner Instructions](#repo-owner-instructions), all other team members can [fork and clone][4] the new repo to their Development Workstations.
 
 
 <!--- Reusable Resources --->
