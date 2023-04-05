@@ -13,25 +13,23 @@ You will need access to Mural to participate in Design Thinking activites. Refer
 
 ### Plenary Sessions
 
-The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide](https://www.notion.so/tribegroup/FINOS-Global-Accessibility-Awareness-Day-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691) for the schedule of sessions. 
+The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide](https://www.notion.so/tribegroup/FINOS-Global-Accessibility-Awareness-Day-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691) for the [schedule of sessions](https://tribegroup.notion.site/Schedule-Events-a8fd71f103504b608946380c56e04c83). 
 
-**Highly Recommended for Design Thinking track:**
+#### Highly Recommended for Design Thinking track
 
-* Design Thinking 101 & Recipe
-    * Design Thinking 101: What, why, where Design Thinking is used
-    * Overview of a Design Thinking recipe (set of exercises) to help create user- centered use cases
-* Atomic Accessibility Design Theme Builder Workshop
-    * Overview of the Theme Builder tool, how to use it, example use cases
-* Atomic Accessbility Design Overview
-* Atomic Tool Chain in Action
-* Atomic Accessbilit Design Theme Builder for Designers Workshop
-* [Mural 101](mural.co)
-    * Overview of the collaboration tool, Mural. (Hint: you will be utilizing Mural for the Design Thinking recipe)
+| Workshop | Purpose |
+| --- | --- | 
+| Atomic Accessability Design Overview | Introduction to Atomic Design for Accessibility. |
+| Atomic Accessibility Design Theme Builder Workshop | Overview of the Theme Builder tool, how to use it, example use cases. |
+| Design Thinking Recipe | Introduction to Design Thinking and the prescribed recipe (set of exercises) to help create user- centered use cases for the event challenges. |
+| Getting Started with Mural | Overview of the collaboration tool, Mural. *Hint: you will be utilizing Mural for the Design Thinking recipe*. |
+| Atomic Toolchain in Action |Show-n-tell session demonstrating the integrated workflow of tools used by designers. | 
+| Atomic Accessability Design Theme Builder for Designers Workshop | Learn how to use the Theme Builder for designing new components and theme. |
+#### Additional Sessions that might be beneficial
 
-**Additional Sessions that might be beneficial:**
-
-* Atomic Accessibility Design Theme Builder for Developers workshop
-    * Overview of how Developers can best utilize the theme builder tool to create accessbile solutions
+| Workshop | Purpose |
+| --- | --- | 
+| Atomic Accessibility Design Theme Builder for Developers | Overview of how Developers can best utilize the theme builder tool to create accessible solutions. |
 
 ## Sample Material
 The following resources provide a bootstrap for participating hackers.
@@ -40,7 +38,7 @@ The following resources provide a bootstrap for participating hackers.
 | --- | --- |
 | Design Thinking Mural Board Template | [Mural Template]() |
 | Use Case Story | [Story template](/challenges/challenge1/usecase/story-template.md) |
-| Design Thinking Playback Template | [PowerPoint Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx) |
+| Playback Brief Template | [PowerPoint Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx) |
 
 ## Exit Criteria
 Upon successful completion of this guide, the following hackathon checklist requirements will be produced:
@@ -49,11 +47,11 @@ Upon successful completion of this guide, the following hackathon checklist requ
 | --- | --- |
 | Design Thinking Mural Board | URL to whiteboard used for team brainstorming. |
 | Use Case Story | Markdown file describing the use case with support by UML diagrams. 
-| Design Thinking Playback Brief | PowerPoint Presentation used to convey results of Design Thinking activities. This presentation *should* be used for the creation of the 2-min Concept Video. |
+| Playback Brief | PowerPoint Presentation used to convey results of Design Thinking activities. This presentation *should* be used for the creation of the 2-min Concept Playback Pitch Video. |
 
 ## Design Thinking Recipe Instructions
 ### Design Thinking Recipe
-[Link to template](). Instructions for how to copy this template can be found [here](/submission-guides/mural/mural-instructions.md)
+1. Select a team member to create a new Mural Board from this [recipe template](). Instructions for how to copy this template can be found [here](/submission-guides/mural/mural-instructions.md).
 
 The Design Thinking Recipe is broken down into 2 phases:
 
@@ -79,26 +77,26 @@ As a team, determine a persona that you want to find a use case for.
 | Impaired Person | A content consumer with one or more disabilities or disorders. Needs to be able to interact with accessible content to achieve goals. | 
 
 
-#### Step 2:  **Brainstorm Actitivites**
-Once your team has chosen a persona, brainstorm as many tasks that persona needs to do as it relates to accessbility.   
+#### Step 2: Brainstorm Activities
+Once your team has chosen a persona, brainstorm as many tasks that persona needs to do as it relates to accessibility.   
 
 1. Set 10 minutes on the timer
-2. Brainstorm what tasks your persona needs to do? What are their jobs? What activites does this persona do as it relates to accessibility?
+2. Brainstorm what tasks your persona needs to do? What are their jobs? What activities does this persona do as it relates to accessibility?
 3. Discuss your stickies as a team
 4. Vote on the most important task and bring this idea to the next activity 
 
 
-#### Step 3:  **Scenario Map**
+#### Step 3: Scenario Map
 Place your top voted task at the top of this activity. Now we are going to breakdown the steps taken by your persona to complete this task. 
 
 1. Spend 5 minutes determining the high level steps that your user performs to complete the task your team has identified. Fill in stickies within the "steps" row
 2. Next, as a team, discuss what your persona is doing, thinking, and feeling during each step you have outlined. Add your notes to the board as stickies.
 3. Once you have filled in the board, spend 5 minutes and vote on any pain points or opportunities that your team discovered. Try to think of where the Atomic Theme Builder tool might be introduced to *reduce* or *eliminate* the pain point you discovered.
-4. Bring the top opporunity to the next activity. 
+4. Bring the top opportunity to the next activity. 
 
 ### Phase 2: 
 
-#### Step 4:  **Define the Problem**
+#### Step 4:  Define the Problem
 
 >Note: the output of this activity will be used to fill out your [Playback Brief](/challenges/common/presentations/gaad-hackathon-playback-template.pptx)
 
@@ -112,20 +110,20 @@ Now it's time for your team to **clearly define the problem** using the framewor
 3. Finally, summarize each column into one concise statement at the bottom in the blue sticky note
 
 
-#### Step 5:  **Reframe the Problem into an Opportunity**
-Now that your team has clearly defined what problem you are trying to solve, its time to reframe this statement into an opporunity statement.
+#### Step 5:  Reframe the Problem into an Opportunity
+Now that your team has clearly defined what problem you are trying to solve, its time to reframe this statement into an opportunity statement.
 
 1. Start by taking your summarized WHAT & WHY and place these at the top of the board
 2. Next, spend 5-10 minutes individually brainstorming opportunity statements, utilizing the provided "How might we..." structure 
 3. Discuss your opporunity statements as a team
 4. Vote on the team's favorite to move forward with
 
-#### Step 6:  **Visualize your proposed solution**
+#### Step 6:  Visualize your proposed solution
 Jumpstart ideation by visualizing how this solution might work.
 
 1. Begin by reviewing the top "How Might We" statement that your team voted on
 2. Next, use the template to visualize solutions that would solve for your opportunity statement. You can either brainstorm 8 variations of 1 idea, or use the template as a storyboard and visualize how your user would interact with the proposed solution.
-3. Be sure to inlcude notes & visuals within this exercise!
+3. Be sure to include notes & visuals within this exercise!
 4. Your team should now have a clearer understanding of what you want to build for the Hackathon.
 5. Go out and build!
 
@@ -171,7 +169,7 @@ Familiarity with UML sequence diagrams is suggested:
 
 #### Develop UML
 
-1. Pick a UML design tool (LucidCarts, PlantUML, other). Refer to [suggested tools](/submission-guides/tools.md).
+1. Pick a UML design tool (LucidCarts, PlantUML, other). Refer to [suggested tools](./tools.md).
 2. Create a sequence diagram image and store it in the `./designs/images/uml` folder. Since diagram are often modified/altered, it is advised that you store the source files used to produce the diagram in the `./designs/src` folder.
 3. Sometimes, a single diagram is too busy and would benefit from segmenting the steps into multiple diagrams. If multiple diagram are required, repeat `Step 2` for each required diagram. 
 

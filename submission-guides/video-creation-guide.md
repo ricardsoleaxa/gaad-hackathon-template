@@ -1,63 +1,34 @@
 # Video Creation Guide
 
->ToDO We will be using Zoom so we need zoom recording instructions
-
 The instructions herein provide guidance on how a participating hackathon team can get started on the delivery of the requirements for their selected event track. 
 
->NOTE: These instructions are applicable to both event tracks.
+>NOTE: These instructions are applicable to the tracks of both event challenges.
 
 ## Expectations
 Each participating team must record and submit videos of adequate duration to qualify for judging.
 
 ## Submission Checklist
 
-| Track | Requirements |
-| --- | --- |
-| Digital Trust Ideation | 2-min Concept Playback Video, 2-min Quick Prototype Video |
-| Hack the Code | 2-min Concept Playback Video, 2-min Demo Video |
-
-## Prerequisite Educational
-
-The following plenary sessions are recommended before beginning the hackathon. Please refer to the [Participants Guide][1] for the schedule of sessions. 
-
-* Pitch Workshop
-* Video Process 101
-
+| Track | Requirements | Optional |
+| --- | --- | --- |
+| Design Thinking | 2-min Concept Playback Pitch Video | 2-min Show-n-Tell Video  |
+| Hack the Code | 2-min Concept Playback Pitch Video, 2-min Show-n-Tell Video | n/a |
 ## Exit Criteria
 Upon successful completion of this guide, the following hackathon checklist requirements will be produced:
 
 | Artifact | Description |
 | --- | --- |
-| 2-min Concept Playback Video  | Video recording conveying project problem statement and What/Why/Wow elements. |
+| 2-min Concept Playback Pitch Video  | Video recording conveying project problem statement and What/Why/Wow elements. |
 | 2-min Concept Show-n-Tell Video | Video recording of working prototype or demo depending on the selected track. |
 
 ## Instructions
 
->Warning: Do not record videos on personal computer as videos need to be stored on Discover systems.
+Please follow the instructions for your preferred video conferencing platform. 
 
-Please follow these instructions for the creation of a video recording using Microsoft Teams.
+* [Google Meets](https://support.google.com/meet/answer/9308681?hl=en)
+* [Microsoft Teams](https://support.microsoft.com/en-us/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
+* [Zoom](https://support.zoom.us/hc/en-us/articles/201362473-Enabling-and-starting-local-recordings)
 
-1. Using a Discover computer, the meeting host can open Microsoft Teams and click the Calendar option on the left-hand menu
- 
-3. Click ‘Meet now’ in the top-right corner
- 
-4. Change the title of the meeting to the desired title of your video
- 
-5. Click ‘Get a Link to Share’ and email that link to all the attendees of the meeting including the personal email for the team member that is using his/her personal device(s) for the running of the prototype or demo.
- 
-6. On your Discover device, click Start Meeting
- 
-7. Join the Teams meeting from your device(s) via the link from step 5
- 
-8. Make sure your camera and microphone are on from the personal device you intend to record from. Mute your microphone and turn off your camera on your Discover device. If you are using more than one personal device, please only have one active microphone in use to avoid audio feedback.
- 
-9. When you are connected on all devices and ready to record, using your Discover device, click ‘More’ in the top navigation bar, then ‘Start recording.’ It typically takes about 5-10 seconds for the actual recording to begin.
-    
-10. At this point the attendees using the personal device can start sharing their screen. Share any screens as necessary.
- 
-11. When the meeting is done, the host can click ‘More’ and then ‘Stop Recording’ to end the meeting. A recording and transcription will be available in the Microsoft Teams chat for the session.
- 
-12. Once Microsoft teams has completed the processing of the recording, the host can locate the video file in the recent Teams chat. Click on the 3 dots in the top right corner of the video file and select ‘Get link.’ Submit this URL using the Hackathon submission form. 
 
 <!--- Reusable Resources --->
 [1]: https://www.notion.so/tribegroup/Discover-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691?pvs=4
