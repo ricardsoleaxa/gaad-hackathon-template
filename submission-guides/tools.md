@@ -1,11 +1,5 @@
 # Helpful Participation Tools
 
-## Sponsor Tools
-
-The following resources pertain to sponsored tools available for the hackathon.
-
-* [Mural](https://www.mural.co)
-
 ## Hacker's Toolbelt
 The following tools and education resources are helpful aids to bootstrap all team members relative to the deliverables required for the hackathon. 
 
@@ -59,26 +53,16 @@ Here are some recommendations for the creation of flowcharts. These diagrams sho
 * Keynote
 
 ### Visual Collaboration Boards
-Design Thinking activities make use of visual collaboration tools that allow teams to work together on virtual whiteboards with a variety of   features for real-time interactions. 
+[Design Thinking activities](./design-thinking-artifacts.md) make use of visual collaboration tools that allow teams to work together on virtual whiteboards with a variety of features for real-time interactions. 
 
-Participants may use any tools of their choice as long as their resulting board is easily accessible by the judges. It is suggested that one of the following tools are used:
-
-| Tool | Free Access | 
-| --- | --- | 
-| Mural | [Start for Free](https://www.mural.co/pricing) |
+Participants may use any tools of their choice as long as their resulting board is easily accessible by the judges. It is recommended that participants use the visual collaboration board tool offered by [Mural](https://www.mural.co).
 
 ### Use Case Story
-Use the sample artifacts in this folder to help your team construct a single *Use case Story* document which:
+Successful hackathon participants will demonstrate their story-telling ability. This repository contains a structured document outline (using Markdown) to describe a solution to a problem or idea. It is recommended that participants familiarize themselves with the [sample use-case story template](../challenges/challenge1/usecase/story-template.md). After completing their [Design Thinking activities](./design-thinking-artifacts.md), participants can use their results to clearly articulate story-telling topics such as:
 
-* Leverages the finding from Design Thinking activities:
     * Business Challenge
-    * Key Terms (Problem Domain Vernacular)
-    * Assumptions
-    * persona
-* Describes a user story that demonstrates the a particular solution to a use case using UML sequence diagrams.
+    * Problem Domain Vernacular
+    * Solution Assumptions
+    * Problem Domain Persona
 
-An example Use Case Story template is provided to jump-start the writing endeavor. 
-
-
-
-
+Participants **should** consider extending their user story with a use case using UML sequence diagrams. Please refer to [UML Design Tools](#uml-design-tools) for assistance. 
