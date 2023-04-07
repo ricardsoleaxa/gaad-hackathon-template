@@ -27,7 +27,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 ![workflow-steps](./challenges/challenge1/usecase/images/workflow/workflow-steps.png)
 
 ### Recommended Activity
-1. [Attend suggested challenge (track) workshops]()
+1. [Attend suggested challenge (track) workshops](https://www.notion.so/tribegroup/Schedule-Events-a8fd71f103504b608946380c56e04c83)
 2. [Team Brainstorming using Design Thinking Recipe]()
 3. [Develop Use Case Story](./submission-guides/design-thinking-artifacts.md#developing-user-stories) based on findings from Design Thinking excercise. 
 
@@ -43,4 +43,4 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 The following steps are suggested for submitting a qualified event submission:
 
 1. [Prepare repo for submission](./submission-guides/submission-instructions.md)
-2. [Refer to Participant Guide Submission Process]()
+2. [Refer to Participant Guide Submission Process](https://www.notion.so/tribegroup/How-to-Submit-839ac3cdcdf24baf8785bbba206150e7)
