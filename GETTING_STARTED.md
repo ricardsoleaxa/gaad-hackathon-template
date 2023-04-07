@@ -29,7 +29,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 ### Recommended Activity
 1. [Attend suggested challenge (track) workshops]()
 2. [Team Brainstorming using Design Thinking Recipe]()
-3.[Develop Use Case Story](./submission-guides/design-thinking-artifacts.md#developing-user-stories) based on findings from Design Thinking excercise. 
+3. [Develop Use Case Story](./submission-guides/design-thinking-artifacts.md#developing-user-stories) based on findings from Design Thinking excercise. 
 
 ### Required Activity
 
@@ -37,7 +37,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 2. Develop Concept Playback Pitch Video using the Playback Brief.
 3. Develop solution code or optional prototype depending on requirements of challenge track. 
 4. Develop Concept Show-n-tell video demonstrating working solution code in action.
-5. Review and update GitHub Repo to ensure it is well structured and organmized for judges.  
+5. Review and update GitHub Repo to ensure it is well structured and organized for judges.  
     
 ## Submit
 The following steps are suggested for submitting a qualified event submission:
