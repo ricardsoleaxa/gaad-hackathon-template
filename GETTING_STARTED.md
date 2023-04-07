@@ -1,4 +1,4 @@
-Template Structure & Instructions
+# Template Structure & Instructions
 
 This template repository serves as a primer for hackathon participants to **setup**, **develop**, and **submit** qualified projects. 
 
