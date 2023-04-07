@@ -10,7 +10,7 @@ In support of 18 May 2023 [Global Accessibility Awareness Day](https://accessibi
 This [GitHub Repo Template][7] serves as a submission aid. It provides preparatory guidance to participating hackathon teams by [creating a project workspace repository][8] for use in the event. Effectively, this repository is an event  bootstrap mechanism for participants.
 ## Usage
 ### 1. Pre-Hackathon Configuration
-Before the hackathon begins, follow these [configuration instructions](./submission-guides/configuration-instructions.md) to prepare a new repository instance generated from this GitHub repo template.
+Before the hackathon begins, familiarize yourself with the [template structure & instructions](./GETTING-STARTED.md). Then, follow these [configuration instructions](./submission-guides/configuration-instructions.md) to prepare a new repository instance generated from this GitHub repo template.
 
 ### 2. Project Development
 Once the hackathon begins, refer to the [Hackers's Guide](./HELP.md) to develop your project.
