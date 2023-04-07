@@ -1,6 +1,6 @@
 # Project Submission Instructions
 
-Each team should appoint 1 person as the ‘Team Leader’ to submit the artifacts below
+Each team should appoint 1 person as the `Team Leader` to submit the artifacts below
 
 **Submission Deadline:** 11:59 pm CST on 17 Feb 2023
 
@@ -9,6 +9,8 @@ Each team should appoint 1 person as the ‘Team Leader’ to submit the artifac
 >For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md)
 
 ## Submission Artifacts
+This document describes the list of optional, suggested, and required artifacts associated with a well organized project submission. 
+
 | Deliverable | Design Thinking | Hack-the-Code
 | --- | --- |--- |
 | Concept Playback - Pitch Video|  Required for judging. | Required for judging. |
