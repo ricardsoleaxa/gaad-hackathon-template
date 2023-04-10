@@ -28,7 +28,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 
 ### Recommended Activity
 1. [Attend suggested challenge (track) workshops](https://www.notion.so/tribegroup/Schedule-Events-a8fd71f103504b608946380c56e04c83)
-2. [Team Brainstorming using Design Thinking Recipe]()
+2. [Team Brainstorming using Design Thinking Recipe](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42)
 3. [Develop Use Case Story](./submission-guides/design-thinking-artifacts.md#developing-user-stories) based on findings from Design Thinking excercise. 
 
 ### Required Activity

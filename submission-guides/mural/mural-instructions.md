@@ -15,7 +15,7 @@
 Note: You only need one person from the team to download the template. Once that one member has the template, they can share it with the rest of their team. 
 
 ## Using the Template
-1. Use [this link](mural.co) to navigate to the GAAD Hackathon Mural template.
+1. Use [this link](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42) to navigate to the GAAD Hackathon Mural template.
 2. Select, "Use this template"
 3. Click, "Create Mural from Template"
 4. NOTE: If you have not created a Mural account yet, you will be prompted to do so.
