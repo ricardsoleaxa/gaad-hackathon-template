@@ -33,7 +33,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 
 ### Required Activity
 
-1. Develop Playback Brief using [provided temnplate](./challenges/common/presentations/gaad-hackathon-playback-template.pptx). *Hint: Leverage findings from Design Thinking to simplfy this task.*
+1. Develop Playback Brief using [provided template](./challenges/common/presentations/gaad-hackathon-playback-template.pptx). *Hint: Leverage findings from Design Thinking to simplfy this task.*
 2. Develop Concept Playback Pitch Video using the Playback Brief.
 3. Develop solution code or optional prototype depending on requirements of challenge track. 
 4. Develop Concept Show-n-tell video demonstrating working solution code in action.
