@@ -36,7 +36,8 @@ The following resources provide a bootstrap for participating hackers.
 
 | Description | Template |
 | --- | --- |
-| Design Thinking Mural Board Template | [Mural Template](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42) |
+| Design Thinking Recipe Template | [Mural Template](https://app.mural.co/template/a34cb087-9954-487a-810f-65671664f59d/97429e07-5ba1-47e9-91d3-98e668e51d42) |
+| Completed Sample Design Thinking Board | [Completed Sample DT Board](https://app.mural.co/t/gaadhackathon3144/m/gaadhackathon3144/1681229240461/7132a849f6e801a86fcdcbc071c37c3d5a6543ac?sender=uf48e0d8b31e1b834af530581) |
 | Use Case Story | [Story template](/challenges/challenge1/usecase/story-template.md) |
 | Playback Brief Template | [PowerPoint Template](/challenges/common/presentations/gaad-hackathon-playback-template.pptx) |
 
