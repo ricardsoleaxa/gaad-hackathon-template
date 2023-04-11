@@ -5,13 +5,12 @@
 | --- | --- | 
 | Overview | The use of complex language in contracts and legal text makes them difficult to understand, particularly for individuals with cognitive disabilities. |
 | Challenge | Organize a well-rounded team that will develop a generic solution to simplify the language used in contracts, improve their overall clarity and accessibility, and make them easier to find and understand. This solution should be flexible enough to be deployed in any infrastructure.|
-## Pick an Event Track
-Challenge 1 offers two (2) event tracks. Each participating team must select the track they will compete within.
+## Event Track
+Challenge 2 offers one event track.
 
 | Track | Description | Key Submission Artifacts | Required Skills |
 | --- | --- | --- | --- | 
-| **Design Thinking** | Utilize Design Thinking to define and develop a working end-to-end use cases for applying the Atomic Accessibility Design Theme Builder. | Link to a Visual Collaboration Software Board (Mural), Use Case Playback Brief (SCIPAB and/or What/Why/Wow,Persona, Empathy and Journey Maps, Business Lean Canvas), Use Case Story,Sequence Diagrams, 2-min Concept Playback Pitch Video, 2-min Quick Prototype Video | Design Thinking, Business Acumen, UML |
-| **Hack the Code** | Develop a working end-to-end use case solution applying the Atomic Accessibility Design Theme Builder. | Link to a Visual Collaboration Software Board (Mural), Use Case Playback Brief (SCIPAB and/or What/Why/Wow,Persona, Empathy and Journey Maps, Business Lean Canvas), Use Case Story, Sequence Diagrams, Demo Code, 2-min Concept Playback Pitch Video, 2-min Demo Video | Design Thinking, Business and Technical Acumen, UML, Javascript |
+| **Design Thinking / Hack the Code** | Develop a working end-to-end use case solution applying the Design Thinking methodology and using the AXA Computable Contracts API to deliver a more simplified version of a contract  where understandability and clause findability are enhanced | Link to a Visual Collaboration Software Board (Mural), Use case story, Journey map, basic research and user testing results, Demo code, 2-min Concept Playback Pitch Video, 2-min Demo Video | Teams shoud ideally include mixed profiles. Usefull skills unclude: UX Research & Design, UX Writing, Developers |
 
 ## Update Readme
 1. Open the locally cloned repository on your **Development Workstation** using your favorite IDE (i.e. [Visual Studio Code][1], [Atom][2]).
