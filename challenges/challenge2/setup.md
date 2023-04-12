@@ -14,7 +14,7 @@ Challenge 2 offers one event track.
 
 ## Update Readme
 1. Open the locally cloned repository on your **Development Workstation** using your favorite IDE (i.e. [Visual Studio Code][1], [Atom][2]).
-2. Based on track selected, copy the appropriate `sample code` to prime your project workspace within the `hackproject` folder.
+2. Copy the appropriate `sample code` to prime your project workspace within the `hackproject` folder.
 
     ```
     $ cd <REPO_FOLDER>
