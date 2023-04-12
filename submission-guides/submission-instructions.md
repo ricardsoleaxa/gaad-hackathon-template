@@ -2,7 +2,7 @@
 
 Each team should appoint 1 person as the `Team Leader` to submit the artifacts below
 
-**Submission Deadline:** 11:59 pm CST on 17 Feb 2023
+**Submission Deadline:** 11:59 pm CST on 10 May 2023
 
 **Submission Link:** [virtual.hackathon.io](virtual.hackathon.io)
 
