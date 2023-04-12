@@ -10,7 +10,7 @@ Challenge 2 offers one event track.
 
 | Track | Description | Key Submission Artifacts | Required Skills |
 | --- | --- | --- | --- | 
-| **Design Thinking / Hack the Code** | Develop a working end-to-end use case solution applying the Design Thinking methodology and using the AXA Computable Contracts API to deliver a more simplified version of a contract  where understandability and clause findability are enhanced | Link to a Visual Collaboration Software Board (Mural), Use case story, Journey map, basic research and user testing results, Demo code, 2-min Concept Playback Pitch Video, 2-min Demo Video | Teams shoud ideally include mixed profiles. Usefull skills unclude: UX Research & Design, UX Writing, Developers |
+| **Design Thinking / Hack the Code** | Develop a working end-to-end solution applying the Design Thinking methodology and using the AXA Computable Contracts API to deliver a more simplified version of a contract where  understandability and clause findability are enhanced. | Link to a Visual Collaboration Software Board (Mural), Use case story, Journey map, basic research and user testing results, Demo code, 2-min Concept Playback Pitch Video, 2-min Demo Video | Teams shoud ideally include mixed profiles. Usefull skills unclude: UX Research & Design, UX Writing, Developers |
 
 ## Update Readme
 1. Open the locally cloned repository on your **Development Workstation** using your favorite IDE (i.e. [Visual Studio Code][1], [Atom][2]).
