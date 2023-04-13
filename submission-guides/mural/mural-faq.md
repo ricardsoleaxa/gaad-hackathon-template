@@ -6,8 +6,6 @@
 ### Q: Help! My group member can't edit the mural board, what do I do?
 A: Make sure they are signed into their Mural account. Don't have account yet? Sign up for free at mural.co 
 
-### Q: question 3
-A: answer
 
-### Q: question 4
-A: answer
+
+For additional help, visit [Mural](https://support.mural.co/en/) or reach out to the "helpdesk" channel on slack!

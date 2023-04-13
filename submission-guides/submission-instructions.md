@@ -1,49 +1,64 @@
 # Project Submission Instructions
 
-**Each team should appoint 1 person as the ‘Team Leader’ to submit the below artefacts onto [virtual.hackathon.io](virtual.hackathon.io) before 11:59 pm CET on 17 Feb 2023, Friday.**
+Each team should appoint 1 person as the `Team Leader` to submit the artifacts below
 
-Refer to the event [Participant Guide][1] for instructions on how to access the [project submission form]() to **finalize** the submission process.  **ToDo**
-  
+**Submission Deadline:** 11:59 pm CST on 10 May 2023
 
->WARNING: For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md).
+**Submission Link:** [virtual.hackathon.io](virtual.hackathon.io)
 
+>For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md)
 
-### 1) GitHub Repo Link
-Each team is to appoint 1 person to create the team's [**GitHub](https://github.com/)**  repo and share the access with the team to collaborate on. During submissions, the team needs to submit the link to this GitHub Repo which will be accessible to the judges.
+## Submission Artifacts
+This document describes the list of optional, suggested, and required artifacts associated with a well organized project submission. 
 
-* GitHub repo should host the application’s code and any other deployment files and testing instructions.
+| Deliverable | Design Thinking | Hack-the-Code
+| --- | --- |--- |
+| Concept Playback - Pitch Video|  Required for judging. | Required for judging. |
+| Well organized GitHub Repository | Required for judging | Required for judging |
+| Concept Show-n-Tell Video | Optional for judging depending. | Required for Judging |
+| Use Case Story | Supporting material for judges. | Supporting material for judges. |
+| Solution Code | n/a | Supporting material for judging. |
+| Visual Collaboration Board URL | Supporting development material for team. | Supporting development material for team.
+| Visual Collaboration Board Artifacts | Supporting development material for team. | Supporting development material for team.
+| Playback Brief| Supporting development material for team. | Supporting development material for team.
 
-### 2) Project Description
-This is a detailed description of your team's project containing an overview of what problem is being addressed, what is the WOW factor of the idea and how do you think its fundable.
+### Concept Playback - Pitch Video
+All teams are required to submit a **2-minute** pitch video. 
+>Note: judges will not view anything after the 2:00 minute mark
 
-It should include the following:
-
-* Name and summary of the project
-* Names/pseudonyms of team members and contact information (e.g. GitHub handle, email address, etc)
-* The category of submission
-* An overview of what problem is being addressed
-* How the project uses Substrate or other technology
-* A list of tech stack (solutions, technology infrastructure, technology services, etc) **used** by the team to build your project
-
-### 3) 2 minute Pitch Video
->Note: Judges will not judge any content over the 2:00 minute mark! (i.e. anything from 2:01 onward WILL NOT be elgibile for judging)
-This is a video recording of your team introducing your project and solution (as though you are in front of a live audience pitching in a physical hackathon!)
-
-The video recording can be done over platforms like Zoom, Google Meets, etc. with the entire team present in the recording, if possible. Videos should be uploaded on YouTube, Google Drive, etc. and the link should be provided during submission.
-
-The judges will stop looking at the video beyond 3 minutes, thus it will be advisable to keep the pitch video under 3 minutes with the WOW factor clearly highlighted.
-
-The pitch video should mention:
+The video should include:
 
 * Name of your project and a brief overview of what it does
 * The identified issue and how your project is able to tackle the problem
-* A brief demonstration of the prototype and the use of technology/application involved
+* A brief demonstration of the prototype and the use of technology/application involved 
 
-### 4) List of Technical Stack Used
-This is a list of tech stack used by the team to build your project
+Refer to the [video creation guide](./video-creation-guide.md) for instructions on recording your pitch video.
 
-### 5) Project Demo Link (Optional)
-the URL to the live working environment of the solution you have developed.
+### Well organized GitHub Repo
+ALL teams are required to submit a well organized GitHub repository for judging. Please refer to the [repo instructions](./repo-instructions.md).
 
-<!--- Reusable Resources --->
-[1]: https://www.notion.so/tribegroup/Discover-GAAD-Hackathon-Participants-Guide-a7e0e146877645ea9b52981079ded691?pvs=4
+### Concept Show-n-Tell Video 
+
+Teams participating in the Hack-the-code track are required to submit a **2-minute** show-n-tell video walking judges through their working code. 
+>Note: judges will not view anything after the 2:00 minute mark
+
+Refer to the [video creation guide](./video-creation-guide.md) for instructions on recording your show-n-tell video.
+
+### Solution Code
+
+Teams participating in the Hack-the-code track can provide their code base within their GitHub Repo.
+
+### Use Case Story
+Successful hackathon participants will demonstrate their story-telling ability. This repository contains a structured document outline (using Markdown) to describe a solution to a problem or idea. It is recommended that participants familiarize themselves with the [sample use-case story template](../challenges/challenge1/usecase/story-template.md).
+
+### Visual Collaboration Board URL
+[Design Thinking activities](./design-thinking-artifacts.md) make use of visual collaboration tools that allow teams to work together on virtual whiteboards with a variety of features for real-time interactions. 
+
+Participants may use any tools of their choice as long as their resulting board is easily accessible by the judges. It is recommended that participants use the visual collaboration board tool offered by [Mural](./mural/mural-instructions.md) and refer to the [Mural FAQ](./mural/mural-faq.md).
+
+### Visual Collaboration Board Artifacts
+Upon completion of the [Design Thinking activities](./design-thinking-artifacts.md), teams should export their work as either a PNG or PDF to add their artifacts to their [Hack Project](../hackproject/) folder.
+
+### Playback Brief
+
+Teams should utilize the [Playback Brief Template](../challenges/common/presentations/gaad-hackathon-playback-template.pptx) to help streamline the creation of a presentation for their Hackathon project. The template provides teams with a structure to clearly communicate the problem or challenge and their proposed solution or idea. 

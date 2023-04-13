@@ -48,7 +48,7 @@
     1. Use Case: Markdown file describing the story with support by UML diagrams. Remember to update filename if you renamed the original template.
     2. Visual Collaboration Board Details: Provide a link to the teams Board and/or export the whiteboard used for team brainstorming and provide link to file or folder where the artifacts are persisted. Since FREE Boards may not be available long term you should consider both options.   
     3. Design Thinking Playback Brief: PowerPoint Presentation used to convey results of Design Thinking activities and record Pitch Video.
-    4. Concept Playback Video: URL to Pitch Video recording conveying project problem statement and What/Why/Wow elements.
+    4. Concept Playback Pitch Video: URL to Pitch Video recording conveying project problem statement and What/Why/Wow elements.
     5. Concept Show-n-Tell Video: URL Recording of a running solution to the proposed concept. 
     6. Code: URL to the code Readme file. 
 

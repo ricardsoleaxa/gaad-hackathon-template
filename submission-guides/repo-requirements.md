@@ -8,9 +8,10 @@ Each team will be required to submit a GitHub repository with their project. The
 
     | Challenge | Track | Topics |
     | --- | --- | --- |
-    | 1 | Design Thinking | `finos`, `gaad-2023-1dt`|
-    | 1 | Hack the Code | | `finos`, `gaad-2023-1hc`|
-    | 2 | n/a | `finos`, `gaad-2023-2`|
+    | 1 | Design Thinking | `finos`, `a11y-tb`, `gaad-2023-1dt`|
+    | 1 | Hack the Code | `finos`, `a11y-tb`, `gaad-2023-1hc`|
+    | 2 | Hack the Code | `finos`, `gaad-2023-2hc`|
+
 
 <!--- Reusable Resources --->
 [1]: https://docs.github.com/en/enterprise-server@3.0/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository
