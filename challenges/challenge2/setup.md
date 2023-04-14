@@ -24,9 +24,11 @@ Challenge 2 offers one event track.
     $ rm -f ./hackproject/.gitkeep
     ```
 
-    where:
+    *where*:
     
     * REPO_FOLDER: Name of the local project folder on your **Development Workstation** after cloning the ``` Team Workspace``` repository.
+ 
+&nbsp;
 
 3. Move `README.md` to the `archive` folder. Rename it to `ORIGINAL_INSTRUCTIONS.md`.
 
@@ -34,27 +36,24 @@ Challenge 2 offers one event track.
     $ mv -fv ./README.md ./archive/ORIGINAL_INSTRUCTIONS.md
     ```
 
-4. Rename `SUBMISSION_README.md` to `README.md`
+4. ✏️ Rename `SUBMISSION_README.md` to `README.md`
 
     ```
     $ mv -fv ./SUBMISSION_README.md ./README.md
     ```
 
-5. Update the new `README.md` according to the Template Instructions there in.
+5. 📝 Update the new `README.md` according to the Template Instructions there in.
    
-6. Read the [use cases overview](./usecases/use-cases.md) to inspire you.
+6. 👀 Read the [use cases overview](./usecases/use-cases.md) to inspire you.
    
-7. Check the [example policies](./api/policies/) and read the [AXA Computable Contracts API documentation](./api/API.md).
+7. 👀 Read the [AXA Computable Contracts API documentation](./api/API.md) and check the [example policies](./api/policies/) 🔖
 
-8. Have fun while code your solution with your Team.
+8. ✨ Have fun while code your solution with your Team ✨
 
 ## Develop Solution
 During the event publish all work to the Team Workspace. Follow these [submission instructions](../../submission-guides/submission-instructions.md) prior to finalizing the team's project submission.  
 
+
 [1]: https://code.visualstudio.com/
 [2]: https://atom.io
-[3]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-[4]: https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository
-[5]: https://github.com/discoverfinancial/a11y-theme-builder
-
 
