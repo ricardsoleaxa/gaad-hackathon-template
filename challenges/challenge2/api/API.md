@@ -25,10 +25,12 @@ For the duration of the hackathon, use the following information to connect to t
 
 * tenant: `finos-hackaton`
 * api token: `48y0aydixg267anzrlystlisx6n5fde9bxedf3hsihhqvwjk2bcfez3lle5ho8mu1yqw8mrlr4g26519iug77mwh2j1w35fb7421e0msp6gmu1ymqjrunu8mun31msulqb4teuxxvk42kv2ehgj55fbmm6dzqtf7r3vpwugu7fp0e8rtb5yfjijlmu36o9pwoeh29sjfnusl7bnvhj52hgfmwfxed8pfmjdx4b8fpm9m7um8bmua79lr46yo26eehznepslkufqylj91ewy0jjwrxwz24tpce212shkfu5ky0gylp77j6vesu0o`
-product text and ids: 
-* [Motor](./motor.pdf): 162306 | motor
-* [Coop](./coop.pdf): 162305 | coop
-* [Coverwise](./coverwise.pdf): 162304 | coverwise
+
+
+Product text and ids: 
+* [Motor](./policies/motor.pdf): 162306 | motor
+* [Coop](./policies/coop.pdf): 162305 | coop
+* [Coverwise](./policies/coverwise.pdf): 162304 | coverwise
 
 Both the numerical and string ids are valid ids.
 
