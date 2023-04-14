@@ -48,7 +48,7 @@ Challenge 2 offers one event track.
    
 7. 👀 Read the [AXA Computable Contracts API documentation](./api/API.md) and check the [example policies](./api/policies/) 🔖
 
-8. ✨ Have fun while code your solution with your Team ✨
+8. ✨ Have fun while coding your solution with your Team ✨
 
 ## Develop Solution
 During the event publish all work to the Team Workspace. Follow these [submission instructions](../../submission-guides/submission-instructions.md) prior to finalizing the team's project submission.  
