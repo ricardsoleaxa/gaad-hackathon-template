@@ -10,7 +10,7 @@ Each team will be required to submit a GitHub repository with their project. The
     | --- | --- | --- |
     | 1 | Design Thinking | `finos`, `a11y-tb`, `gaad-2023-1dt`|
     | 1 | Hack the Code | `finos`, `a11y-tb`, `gaad-2023-1hc`|
-    | 2 | Hack the Code | `finos`, `gaad-2023-2hc`|
+    | 2 | Hack the Code | `finos`, `a11y-cc`, `gaad-2023-2hc`|
 
 
 <!--- Reusable Resources --->
