@@ -20,7 +20,7 @@ SUBMISSION_README.md | Template README required for project submission. It repla
 1. Read [FAQ](./FAQ.md) and [Hacker's Guide](./HELP.md)
 2. Before configuring the project repository, get familiar with the configuration requirements for the preferred challenge:
     * [Challenge 1: Atomic Accessibility Design](./challenges/challenge1/setup.md)
-    * [Challenge 2: Accessible Contracts](./challenges/challenge2/setup.md)
+    * [Challenge 2: Inclusive Contracts](./challenges/challenge2/setup.md)
 
 ## Develop
 
