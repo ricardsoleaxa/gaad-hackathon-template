@@ -7,8 +7,8 @@ Get acquainted with some of the [fundamental tools](./submission-guides/tools.md
 ## Sample Use Cases
 Before your team picks a use case, it is recommended that the team explores some example use cases provided by the Challenge Sponsors to help spark ideas.  
 
-1. [Challenge 1 Contribution Examples](https://github.com/discoverfinancial/blob/main/docs/call-for-contributions.md)
-
+* [Challenge 1 Contribution Examples](https://discoverfinancial.github.io/a11y-theme-builder/contribute/)
+* [Challenge 2 Use Cases](https://github.com/finos-labs/gaad-hackathon-template/blob/main/challenges/challenge2/usecases/use-cases.md)
 
 ## General Submission Requirements 
 
