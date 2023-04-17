@@ -9,18 +9,18 @@ Each team should appoint 1 person as the `Team Leader` to submit the artifacts b
 >For a project to qualify as a submission, it must be discoverable using the Mandatory GitHub Topics. See [repo requirements](./repo-requirements.md)
 
 ## Submission Artifacts
-This document describes the list of optional, suggested, and required artifacts associated with a well organized project submission. 
+This document describes the list of ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Optional, ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Suggested, and ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required artifacts associated with a well organized project submission. 
 
 | Deliverable | Design Thinking | Hack-the-Code
 | --- | --- |--- |
-| Concept Playback - Pitch Video|  Required for judging. | Required for judging. |
-| Well organized GitHub Repository | Required for judging | Required for judging |
-| Concept Show-n-Tell Video | Optional for judging depending. | Required for Judging |
-| Use Case Story | Supporting material for judges. | Supporting material for judges. |
-| Solution Code | n/a | Supporting material for judging. |
-| Visual Collaboration Board URL | Supporting development material for team. | Supporting development material for team.
-| Visual Collaboration Board Artifacts | Supporting development material for team. | Supporting development material for team.
-| Playback Brief| Supporting development material for team. | Supporting development material for team.
+| Concept Playback - Pitch Video|  ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required for judging. | ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required for judging. |
+| Well organized GitHub Repository | ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required for judging | ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required for judging |
+| Concept Show-n-Tell Video | ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Optional for judging depending. | ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) Required for Judging |
+| Use Case Story | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting material for judges. | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting material for judges. |
+| Solution Code | n/a | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting material for judging. |
+| Visual Collaboration Board URL | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team. | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team.
+| Visual Collaboration Board Artifacts | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team. | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team.
+| Playback Brief| ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team. | ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Supporting development material for team.
 
 ### Concept Playback - Pitch Video
 All teams are required to submit a **2-minute** pitch video. 
