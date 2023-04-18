@@ -1,7 +1,7 @@
 <!---  Submission Readme Instructions  
   Remove the warning below.
 --->
-![warning](./images/misc/warning.png) Before submitting your project repo, modify this README as instructed to meet the expectations of the judges.
+![warning](./challenges/challenge1/usecase/images/misc/warning.png) Before submitting your project repo, modify this README as instructed to meet the expectations of the judges.
 
 
 <!---  Submission Readme Instructions  
