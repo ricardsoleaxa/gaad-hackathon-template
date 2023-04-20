@@ -96,7 +96,7 @@ Sending a payload with an empty state will return a full list of questions in or
       "type": "enum",
       "order": 0
     },
-    {...}, // truncated
+    {...} // truncated
 ]   
 ```
 Each question need an to be answered in order to receive a coverage or an exclusion. It is best to answer question one by one as depending on the situation a question might not be relevant anymore and might lead to an `OUT_OF_SCOPE` situation. In order to populate the `state` array it is necessary to use the `id` of the question and the selected answer. The following example shows a payload with the populated state.
