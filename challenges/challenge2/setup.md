@@ -10,7 +10,7 @@ Challenge 2 offers one event track.
 
 | Track | Description | Key Submission Artifacts | Required Skills |
 | --- | --- | --- | --- | 
-| **Hack the Code** | Develop a working end-to-end solution using the AXA Computable Contracts API to deliver a more simplified version of a contract where  understandability and clause findability are enhanced. | Link to a Visual Collaboration Software Board (Mural), Use case story, Journey map, basic research and user testing results, 2-min Concept Playback Pitch Video, 2-min Demo code Video | Teams shoud ideally include mixed profiles. Usefull skills unclude: Creativity, Design Thinking, UX Research & Design, Accessibility, Coding, UML |
+| **Hack the Code** | Develop a generic solution that can be deployed in any kind of infrastructure to make contracts easier to understand by simplifying the language used and making the constraints within the contract more easily discoverable. You can optionally use the Design Thinking methodology and the AXA Computable Contracts API to accomplish this. | Link to a Visual Collaboration Software Board (Mural), Use case story, Journey map, basic research and user testing results, 2-min Concept Playback Pitch Video, 2-min Demo code Video | Teams shoud ideally include mixed profiles. Usefull skills unclude: Creativity, Design Thinking, UX Research & Design, Accessibility, Coding, UML |
 
 ## Update Readme
 1. Open the locally cloned repository on your **Development Workstation** using your favorite IDE (i.e. [Visual Studio Code][1], [Atom][2]).
